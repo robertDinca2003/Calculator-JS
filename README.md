@@ -1,3 +1,11 @@
+# Preview
+
+
+
+https://github.com/robertDinca2003/Calculator-JS/assets/71851178/9a45c977-bc37-4a55-9e66-70333d319b30
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
